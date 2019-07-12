@@ -1,6 +1,7 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/preetkhaturia/preetkhaturia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+
+```You can use the [editor on GitHub](https://github.com/preetkhaturia/preetkhaturia.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.```
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -19,14 +20,6 @@ Syntax highlighted code block
 - List
 
 
-<head>
-    <title>Nipun Batra</title>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/nipun-custom.css" />
-    <link type="text/css" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
 
     <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
     <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
