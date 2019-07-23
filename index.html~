@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Meghna Khaturia</title>
+			<style type="text/css">
+			body {
+				font-size: 14px;
+				font-family: serif, Georgia, Times;
+				letter-spacing: 0.15em;
+				background-color: White;
+				background-image: url("images/bg1.jpg");
+				text-align: center;
+				
+				}
+			#page {
+				max-width: 800px;
+				min-width: 800px;
+				margin: 50px auto 50px auto;
+				padding: 20px;
+				border: 0px solid LightGrey;
+				background-color: White;
+				border-radius: 20px;
+				box-shadow: 0px 0px 10px 0px White; 
+				}
+			h2{
+				text-align: center;
+				font-size: 18px;
+				padding: 0px 20px 0px 20px;
+				text-transform: UPPERCASE;
+				text-shadow: 1px 1px 1px Grey;}
+			ul {
+				width: 800px;
+				padding: 20px;
+				margin: auto auto auto auto;
+				text-align: center;}
+			li {
+				display: inline;
+				margin: 0px 20px;}
+			p {
+				text-align: left;
+				width: 500px;
+				margin: 20px auto 20px auto;
+				font-weight: normal;}
+			a {
+				color: DarkBlue;
+				text-decoration: none;
+				padding: 3px 10px 3px 10px;}
+				a:hover, a.on {
+				color: Indigo;
+				text-decoration: underline;}
+			hr {
+				width: 600px;
+				border-top: 2px solid #000;}
+			table {
+				text-align: center;}
+						
+		 	</style>
+		</head>
+		<body>
+			<div id="page">
+			<div id="logo">
+				<li><a href="index.html"><img src="images/meghna_c.png" alt="Meghna Calligraphy" width=220 height=50  /> </a>
+			</div>
+			<ul id="navigation">
+				<li><a href="#" class="on">HOME</a></li>
+				<li><a href="academics.html">ACADEMICS</a></li>
+				<li><a href="research.html">RESEARCH</a></li>
+				<li><a href="about.html">ABOUT ME</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+			</ul>
+			<table cellpadding="0" cellspacing="0" border="0" width="100%">
+			<tr>
+				<td width ="50%"> <span style="display:inline-block; width: 200px;">  </span> <img src="images/pic.jpg" width="250" height="250"/> </td> 
+				<td width ="50%"> 
+				<font size="+2"><b>Meghna Khaturia</b></font> <br/>
+				RESEARCH SCHOLAR <br/>
+				<a href="http://www.ee.iitb.ac.in/">The Department of Electrical Engineering </a> <br/>
+				<a href="http://www.iitb.ac.in/">Indian Institute of Technology Bombay </a> <br/>
+				Email: meghnak@iitb.ac.in <br/>
+				meghnakhaturia@gmail.com 
+				</td>
+				<td>
+			
+				</td>
+			</tr>
+			</table>
+			
+			<p>
+			Welcome to my webpage!!!  
+			</p>
+
+			<p>
+			I am an Mtech + PhD student at IIT Bombay advised by <a href="https://www.ee.iitb.ac.in/~karandi">Prof. Abhay Karandikar</a>. I am working in Infonet Lab on the project of testing the feasibility of Broadband access in rural areas through <a href="https://www.ee.iitb.ac.in/tvws">TV White Spaces</a>. 
+			</p>
+			<p>
+			I did my B.Tech in Electronics and Communication from <a href="https://www.svnit.ac.in">SVNIT</a>, Surat. 	
+			</p>
+			
+
+
+		<ul>
+			<li><a href="https://www.facebook.com/meghna.khaturia"><img src="images/fb.jpg" alt="fb" width=40 height=40 /></a> </li>
+			<li><a href="https://twitter.com/mkbreaktherules"><img src="images/twitter.png" alt="t" width=40 height=40 /></a> </li>  
+			<li> <a href="https://www.linkedin.com/in/meghna-khaturia-b3334619" ><img src="images/linkedin.png" alt="ln" width=40 height=40 /></a></li> 
+		</ul>
+			</div>
+		</body>
+</html>
+
+

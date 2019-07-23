@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Meghna Khaturia</title>
+			<style type="text/css">
+			body {
+				font-size: 14px;
+				font-family: serif, Georgia, Times;
+				letter-spacing: 0.15em;
+				background-color: Grey;
+				background-image: url("images/bg1.jpg");
+				text-align: center;
+				}
+			#page {
+				max-width: 800px;
+				min-width: 800px;
+				margin: 50px auto 50px auto;
+				padding: 20px;
+				border: 0px double #001;
+				background-color: White;
+				border-radius: 20px;
+				box-shadow: 0px 0px 10px 0px White;}
+			h1 {
+				text-align: left;
+				font-size: 18px;
+				padding: 0px 20px 0px 20px;
+				text-transform: UPPERCASE;
+				text-shadow: 1px 1px 1px Grey;}
+			ul {
+				width: 800px;
+				padding: 20px;
+				margin: 0px auto 0px auto;
+				text-align: center;}
+			ol {
+				width: 800px;
+				padding: 20px;
+				margin: 0px auto 0px auto;
+				text-align: left;}
+			li {
+				display: inline-block;
+				margin: 0px 20px;}
+			p {
+				text-align: left;
+				width: 600px;
+				margin: 20px auto 20px ;
+				font-weight: normal;}
+			a {
+				color: DarkBlue;
+				text-decoration: none;
+				padding: 3px 10px 3px 10px;}
+				a:hover, a.on {
+				color: Indigo;
+				text-decoration: underline;}
+			hr {
+				width: 780px;
+				border-top: 1px solid #000;}
+			table {
+				text-align: center;}
+						
+		 	</style>
+		</head>
+		<body>
+			<div id="page">
+			<div id="logo">
+				<li><a href="index.html"><img src="images/meghna_c.png" alt="Meghna Calligraphy" width=220 height=50 /> </a>
+			</div>
+			<ul id="navigation">
+				<li><a href="index.html" >HOME</a></li>
+				<li><a href="academics.html">ACADEMICS</a></li>
+				<li><a href="research.html" class="on">RESEARCH</a></li>
+				<li><a href="about.html">ABOUT ME</a></li>
+				<li><a href="contact.html">CONTACT</a></li>
+			</ul>
+			
+			<p>
+				<h1>Publications</h1>
+				<hr/>
+				<ol>	
+					<li> <i><b> 1. Towards Enabling Broadband for a Billion Plus Population with TV White Spaces</b></i><br/>
+					Animesh Kumar, Abhay Karandikar, Gaurang Naik, Meghna Khaturia, Shubham Saha, Mahak Arora, and Jaspreet Singh <br/>
+					To Appear in the IEEE Communications Magazine, Jul 2016, Wireless Technologies for Development (W4D)</li>
+					
+				</ol>
+			</p>
+			
+			<p>
+			<h1>Current Project Work in IIT Bombay</h1>
+			<hr/>	
+			<ol>
+				<li><b>On Usability of TV UHF Band in India for Rural Broadband Access</b> <br/>
+				<i>Guided by Prof Abhay Karandikar</i><br/>
+				A testbed has been developed at Palghar, Maharashtra where our team has tested the working of WiFi (802.11g) in TV UHF band. Details regarding the testbed can be found <a href="https://www.ee.iitb.ac.in/tvws">here</a>.</b><br/>
+				
+				</li><br/><br/>
+				<li><b>Collaboration with NICT, Japan to test the performance of LTE in TV UHF band</b><br/>
+				<i>Guided by Prof Abhay karandikar </i><br/>
+				Our team has collaborated with NICT, Japan to test the working of LTE in TV UHF band.
+				</li><br/><br/>
+			</ol>
+			</p>
+			<p>
+				<h1>Research Interests</h1>
+				<hr/>
+				<ol>	
+					<li> Resource Allocation</li>
+					<li> TV White Spaces</li>
+					
+				</ol>
+			</p>
+
+			<p>
+				<h1>Programming Skills</h1>
+				<hr/>
+				<ol>	
+					<li> C/C++</li>
+					<li> Network Simulator 3</li>
+					<li> Matlab</li>
+					
+				</ol>
+			</p>
+		
+			
+
+			
+			<p>
+			<h1>Projects during B.Tech </h1>
+			<hr/>
+			<ol>		 
+				<li><b>Fingerprint Verification System</b> (B.Tech final year project)<br/>
+				<i>Guided by Prof J. N. Sarvaiya</i> <br/>
+				Researched about various algorithms used in various steps of fingerprint verification like gabor filtering etc. Finally, developed a matlab code to implement a complete fingerprint verification algorithm. </li> <br/><br/>
+				<li><b>Text to Speech Conversion</b>(Summer Internship project in IIT, Delhi)<br/>
+				<i>Guided by Prof Brijesh Lal </i><br/>
+				A TTS library (flite) was build on the processor TMS320C5510. It involved installing dsp/bios kernel on the DSP processor and then porting the library onto it. The project involved detailed study of TMS320C55x processors and the how a text to speech library is built. </li><br/><br/>
+
+				<li><b>Swarm Robotics</b><br/> 
+				Built a pair of robots which communicated wirelessly. Also, these robots could traverse grid and were used to implement a specific set of instruction that were the part of the game.</li><br/>
+			</ol>
+			</p>
+
+
+		<ul>
+			<li><a href="https://www.facebook.com/meghna.khaturia"><img src="images/fb.jpg" alt="fb" width=40 height=40 /></a> </li>
+			<li><a href="https://twitter.com/mkbreaktherules"><img src="images/twitter.png" alt="t" width=40 height=40 /></a> </li>  
+			<li> <a href="https://www.linkedin.com/in/meghna-khaturia-b3334619" ><img src="images/linkedin.png" alt="ln" width=40 height=40 /></a></li> 
+		</ul>
+			</div>
+		</body>
+</html>

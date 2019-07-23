@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>Meghna Khaturia</title>
+			<style type="text/css">
+			body {
+				font-size: 14px;
+				font-family: serif, Georgia, Times;
+				letter-spacing: 0.15em;
+				background-color: White;
+				background-image: url("images/bg1.jpg");
+				text-align: center;
+				}
+			#page {
+				max-width: 800px;
+				min-width: 800px;
+				margin: 50px auto 50px auto;
+				padding: 20px;
+				border: 0px double #001;
+				background-color: White;
+				border-radius: 20px;
+				box-shadow: 0px 0px 10px 0px White;}
+			h1 {
+				text-align: left;
+				font-size: 18px;
+				padding: 0px 20px 0px 20px;
+				text-transform: UPPERCASE;
+				text-shadow: 1px 1px 1px Grey;}
+			ul {
+				width: 800px;
+				padding: 20px;
+				margin: 0px auto 0px auto;
+				text-align: center;}
+			ol {
+				width: 800px;
+				padding: 0px;
+				margin: 0px auto 0px auto;
+				text-align: left;}
+			li {
+				display: inline-block;
+				margin: 0px 20px;}
+			p {
+				text-align: left;
+				width: 600px;
+				margin: 20px auto 20px auto;
+				font-weight: normal;}
+			a {
+				color: DarkBlue;
+				text-decoration: none;
+				padding: 3px 10px 3px 10px;}
+				a:hover, a.on {
+				color: Indigo;
+				text-decoration: underline;}
+			hr {
+				width: 880px;
+				border-top: 2px solid #000;}
+			table {
+				text-align: center;}
+						
+		 	</style>
+		</head>
+		<body>
+			<div id="page">
+			<div id="logo">
+				<li><a href="index.html"><img src="images/meghna_c.png" alt="Meghna Calligraphy" width=220 height=50 /> </a>
+			</div>
+			<ul id="navigation">
+				<li><a href="index.html">HOME</a></li>
+				<li><a href="academics.html">ACADEMICS</a></li>
+				<li><a href="research.html">RESEARCH</a></li>
+				<li><a href="about.html">ABOUT ME</a></li>
+				<li><a href="contact.html" class="on">CONTACT</a></li>
+			</ul>
+		<p>	
+			<ol>
+				<li> <b> Email id</b>: meghnakhaturia@gmail.com <br/>
+				     meghnak@iitb.ac.in
+				</li> <br/> <br/>
+				<li> <b>Lab Address</b>: WiNet lab, 1st Floor, <br/>
+				     IIT Bombay, Powai, Mumbai <br/>
+				     Pin-400076
+				</li> <br/><br/>
+				
+			</ol>
+			
+		</p>
+
+		<ul>
+			<li><a href="https://www.facebook.com/meghna.khaturia"><img src="images/fb.jpg" alt="fb" width=40 height=40 /></a> </li>
+			<li><a href="https://twitter.com/mkbreaktherules"><img src="images/twitter.png" alt="t" width=40 height=40 /></a> </li>  
+			<li> <a href="https://www.linkedin.com/in/meghna-khaturia-b3334619" ><img src="images/linkedin.png" alt="ln" width=40 height=40 /></a></li> 
+		</ul>
+			</div>
+		</body>
+</html>
+
+
+
+			

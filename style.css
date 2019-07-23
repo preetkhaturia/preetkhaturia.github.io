@@ -1,0 +1,81 @@
+		
+			body {
+				font-size: large;	
+				font-family: 'Verdana', sans-serif;
+				font-weight: 500;
+				background-color: White;
+				background-image: url("images/triangle.jpg");
+				text-align: center;
+				background-size: 100% auto;	
+				}
+			
+			#page {
+				max-width: 70%;
+				min-width: 70%;
+				margin: 5% auto 5% auto;
+				padding: 1%;
+				border: 0px solid LightGrey;
+				background-color: White;
+				border-radius: 2%;
+				box-shadow: 0px 0px 2% 0px White;
+				}
+			h2{
+				
+				text-align: center;
+				font-size: 1em;
+				padding: 0px 2% 0px 2%;
+				text-transform: UPPERCASE;
+				text-shadow: 1px 1px 1px Grey;}
+			h1 {
+				
+				text-align: left;
+				font-size: 1em;
+				padding: 0 0 0 15%;
+				text-transform: UPPERCASE;
+				text-shadow: 1px 1px 1px Grey;}
+			
+			h3 {
+				
+				text-align: center;
+				font-size: 0.75em;
+				padding: 0 0 0 2%;
+				text-transform: UPPERCASE;
+				text-shadow: 0.5px 0.5px 0.5px White;}
+
+			ul {
+				font-size: 0.9em;
+				width: 70%;
+				padding: 2%;
+				margin: auto auto auto auto;
+				text-align: center;}
+			ol {
+				font-size: 0.9em;
+				width: 70%;
+				padding: 0%;
+				margin: 0px auto 0px auto;
+				text-align: left;}
+			li {
+				font-size: 0.9em;
+				display: inline;
+				margin: 0px 5% 0 0;}
+			p {
+				font-size: 0.9em;
+				text-align: justify;
+				width: 70%;
+				margin: 2% auto 2% auto;
+				font-weight: normal;}
+			a {
+				font-size: 1em;
+				color: RoyalBlue;
+				text-decoration: none;}
+				a:hover, a.on {
+				color: Indigo;
+				text-decoration: underline;}
+			hr {
+				font-size: 1em;
+				width: 70%;
+				border-top: 2px solid #000;}
+			table {
+				text-align: center;}
+		
+	
